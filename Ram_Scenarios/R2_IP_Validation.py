@@ -1,8 +1,8 @@
 ''' Ram scenario Two:
-1) Get input from User
-2) Validate if it is valid numeric inputs
-3) Validate if it is proper IP
-2) If Valid IP then what is the class it belogs to
+1) Get IP input from User
+2) Validate if it is numeric inputs
+3) Validate it is valid IP
+2) If Valid IP then what is the class it belongs to
 '''
 
 ip_input = input("Please enter the IP address: \n ")
