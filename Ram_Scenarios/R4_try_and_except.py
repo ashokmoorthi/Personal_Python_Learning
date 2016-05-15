@@ -1,8 +1,9 @@
 ''' Ram scenario Four:
-1) Get two input numeric
+1) Get two numeric inputs
 2) Give the value 0 for Denominator
 3) Handle the error
 4) Next step handle the other errors (Like if we give string instead of numeric)
+5) Then how to handle general issues (Like unknown issue and handle them)
 '''
 import sys
 #while True:
